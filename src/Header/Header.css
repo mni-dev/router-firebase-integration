@@ -1,0 +1,8 @@
+.link-container nav>a{
+    text-decoration: none;
+    margin: 20px;
+    color:black;
+}
+.link-container nav a:hover{
+    color: lightgray;
+}
